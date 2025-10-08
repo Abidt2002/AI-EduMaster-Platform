@@ -1,0 +1,12 @@
+streamlit
+streamlit-authenticator
+PyPDF2
+sentence-transformers
+faiss-cpu
+langchain
+tiktoken
+huggingface-hub
+torch
+transformers
+pyngrok
+sqlite3-binary
